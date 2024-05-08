@@ -9,11 +9,6 @@ Contents:
 2.CRUDOperationsExample.java: Illustrates basic CRUD (Create, Read, Update, Delete) operations with MySQL database using JDBC.
 3.DataStorageUsingCollections.java: Includes examples of storing and manipulating data using Java collections such as ArrayList, HashMap, or others.
 
-Prerequisites:
-Java Development Kit (JDK) installed on your system.
-MySQL Server installed and running locally or on a remote server.
-MySQL Connector/J library added to your project dependencies.
-
 Usage:
 Clone the repository to your local machine.
 Import the project into your preferred Java IDE.
