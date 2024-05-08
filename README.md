@@ -1,6 +1,6 @@
 # Java_Repo
 
-Java MySQL Connector using JDBC
+Java MySQL Connector using JDBC - 
 This repository contains code examples demonstrating the usage of Java MySQL Connector with JDBC (Java Database Connectivity). 
 JDBC is a Java API for connecting programs written in Java to databases, such as MySQL.
 
